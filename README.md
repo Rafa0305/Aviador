@@ -9,8 +9,8 @@ from time import sleep
 import csv
 import os
 
-usuario = '37305688843'
-senha = 'Ravi@1179'
+usuario = ''
+senha = ''
 
 # Duração da coleta (em minutos)
 tempo_minutos = 60 #60  # Altere aqui conforme necessário
